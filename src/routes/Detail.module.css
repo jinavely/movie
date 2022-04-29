@@ -1,0 +1,13 @@
+.container {
+    width: 998px;
+    margin: 0 auto;
+}
+.year {
+    font-size: 18px;
+}
+.rating {
+    color: #f00;
+}
+.runtime {
+    font-size: 16px;
+}
